@@ -58,7 +58,7 @@
           <!-- Topbar Navbar -->
         @include('layouts.menu.navBar')
         </nav>
-        <!-- End of Topbar -->
+        <!-- End of Topbar -->/
 
         <!-- Begin Page Content -->
         <div class="container-fluid">
