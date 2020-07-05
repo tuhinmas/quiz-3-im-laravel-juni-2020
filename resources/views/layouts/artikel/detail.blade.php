@@ -6,9 +6,9 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                      Dibuat
+                        Dibuat
                       <span class="badge badge-primary">{{$artikel -> created_at}}</span>
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                         <h1>judul: {{$artikel -> judul}}</h1>
                       </div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">{{$artikel -> isi}}</div>
